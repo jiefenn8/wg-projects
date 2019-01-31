@@ -13,7 +13,10 @@ PRESENT - Present Linked (Open) Data in a meaningful way for end users to unders
 [r2graph-api](https://github.com/jiefenn8/r2graph-api)
 
 #### PREPARE
-TBA
+[sgraph-nodejs](https://github.com/jiefenn8/sgraph-nodejs)
 
 #### PRESENT
-TBA
+[sgraph-web](https://github.com/jiefenn8/sgraph-web)
+
+## Notes
+The side project started a while ago for a short period during early 2018 which resulted in a small working prototype from back-end to front end. This is pretty much a redo with a much clearer direction and requirement with the use of VCS.
