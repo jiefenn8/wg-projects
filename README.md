@@ -8,7 +8,7 @@ PREPARE - Prepare the data in the graph into retrievable resources that can be u
 PRESENT - Present Linked Data in a meaningful way for end users to understand the data easily and discover value through new insight and opportunities that is not possible through current technology.
 
 Overview of possible routes:
-![mainsmall](https://user-images.githubusercontent.com/42923689/53173931-8e57a100-364d-11e9-9719-d7391bd89de5.png)
+![mainsmall](https://user-images.githubusercontent.com/42923689/53229331-ca8c0f80-36e8-11e9-975b-5cc323c87c39.png)
 
 ## Side projects
 #### CONVERT
