@@ -1,5 +1,10 @@
 # ws-projects
-Collection of web and graph related side projects exploring tools, technologies and skills needed to make web and graph related applications. Goals includes the following plans in three parts.
+
+Collection of side projects related to web and graph technologies.
+
+## Description
+
+This repository Collection of web and graph related side projects exploring tools, technologies and skills to make web and graph related applications. There are three parts in this collections.
 
 CONVERT - Convert data in relational database and other popular datasource types to graph data.
 
@@ -20,5 +25,19 @@ Overview of possible routes:
 #### PRESENT
 [sgraph-web](https://github.com/jiefenn8/sgraph-web)
 
-## Notes
-The side project started a while ago for a short period during early 2018 which resulted in a small working prototype from back-end to front end. This is quick redo with a much clearer direction and requirement with git.
+## Getting Started
+
+### Usage
+
+Most of the repositories here can be used as a standalone. Setting up a working stack from using one in each section is possible as well. For more information on using a project listed above, please check the README.md file in their repository.
+
+### Other
+
+Tools I use to develop most of these projects:
+* [IntelliJ IDEA - Java](https://www.jetbrains.com/idea/)  
+* [Visual Studio Code - Web, JavaScript](https://code.visualstudio.com/)
+* [Visual Studio / Community 20XX - C++](https://visualstudio.microsoft.com/vs/features/cplusplus/)
+
+## License
+
+Browse any of the repositories listed above and check their LICENSE.md for more details. 
