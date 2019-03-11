@@ -4,16 +4,30 @@ Collection of side projects related to web and graph technologies.
 
 ## Description
 
-This repository Collection of web and graph related side projects exploring tools, technologies and skills to make web and graph related applications. There are three parts in this collections.
+Collection of web and graph related side projects exploring tools, technologies and skills to make web and graph related applications. There are three parts in this collections.
 
-CONVERT - Convert data in relational database and other popular datasource types to graph data.
+### Convert
 
-PREPARE - Prepare the data in the graph into retrievable resources that can be used on demand easily by machines or by users for data processing or presentation usage.
+Convert data in relational database and other popular datasource types to graph data.
 
-PRESENT - Present Linked Data in a meaningful way for end users to understand the data easily and discover value through new insight and opportunities that is not possible through current technology.
+![convert](https://user-images.githubusercontent.com/42923689/54112758-c5022980-444b-11e9-8f58-3d136abb1cc8.png)
 
-Overview of possible routes:
-![mainsmall](https://user-images.githubusercontent.com/42923689/53229331-ca8c0f80-36e8-11e9-975b-5cc323c87c39.png)
+---
+
+### Prepare 
+Prepare data in the graph set into accessible resources that can be used on demand by machines or by users for data processing or presentation usage.
+
+![prepare](https://user-images.githubusercontent.com/42923689/54112786-d0555500-444b-11e9-9c43-df04911a40fd.png)
+
+---
+
+### PRESENT
+
+Present processed graph data in a way that end users can understand the data easily and find new value through new insight and opportunities that is not possible through current technology.
+
+![present](https://user-images.githubusercontent.com/42923689/54112796-d77c6300-444b-11e9-9584-2eb2fd22afa4.png)
+
+---
 
 ## Side projects
 #### CONVERT
