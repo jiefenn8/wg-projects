@@ -43,7 +43,7 @@ Present processed graph data in a way that end users can understand the data eas
 
 ### Usage
 
-Most of the repositories here can be used as a standalone. Setting up a working stack from using one in each section is possible as well. For more information on using a project listed above, please check the README.md file in their repository.
+Most of the repositories here can be used as a standalone. Setting up a working stack from using one in each section is possible as well. For more information on using a project listed above, check the README.md file in the repository.
 
 ### Other
 
@@ -54,4 +54,4 @@ Tools I use to develop most of these projects:
 
 ## License
 
-Browse any of the repositories listed above and check their LICENSE.md for more details. 
+Each repository have their own license so check the LICENSE.md in the repository of interest for more details.
