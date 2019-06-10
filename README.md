@@ -1,6 +1,8 @@
 # wg-projects
 
-Collection of side projects since study related to web and graph technologies. *More projects will be added to the list from local archive in the future.*
+Collection of side projects since study related to web and graph technologies. 
+
+*More projects will be added to the list from local archive in the future.*
 
 ## Description
 
@@ -9,6 +11,7 @@ Collection of web and graph related side projects since study exploring tools, t
 ## Side projects
 #### CONVERT
 [GraphLoom](https://github.com/jiefenn8/graphloom)
+
 GraphWeaver
 
 #### PREPARE
